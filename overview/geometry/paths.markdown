@@ -1,3 +1,6 @@
+---
+layout: page
+---
 
 # Paths
 

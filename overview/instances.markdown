@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Instances
 
 For the reference documentation see [CellInstArray Class Reference](https://www.klayout.org/doc-qt5/code/class_CellInstArray.html) and

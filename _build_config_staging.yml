@@ -1,0 +1,6 @@
+
+# This additional configurations are used for the build step
+
+url: https://www.klayout.org
+baseurl: staging/klayout-pypi
+

@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Layers
 
 Unlike plain GDS, the layout object specifies layers globally, not individually for each shape.

@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Shapes
 
 For the original documentation see [Shapes Class Reference](https://www.klayout.org/doc-qt5/code/class_Shapes.html).

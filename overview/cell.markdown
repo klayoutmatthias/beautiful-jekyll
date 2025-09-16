@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Cells
 
 For the reference documentation see [Cell Class Reference](https://www.klayout.org/doc-qt5/code/class_Cell.html).
